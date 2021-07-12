@@ -25,7 +25,7 @@ MY_DIR := $(dir $(lastword $(MAKEFILE_LIST)))
 include $(BOLOS_SDK)/Makefile.defines
 
 # Main app configuration
-APPNAME = "Cosmos"
+APPNAME = "Hupayx"
 APPVERSION_M=2
 APPVERSION_N=18
 APPVERSION_P=0
